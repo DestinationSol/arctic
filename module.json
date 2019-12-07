@@ -1,0 +1,11 @@
+{
+    "id" : "arctic",
+    "version" : "0.1.0",
+    "displayName" : "Arctic Faction",
+    "description" : "Content related to arctic Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
