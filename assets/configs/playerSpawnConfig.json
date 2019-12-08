@@ -11,7 +11,7 @@
   },
   "Arctic Capital": {
     "hull": "arctic:arcticCapital",
-    "items": "10*rep core:mediumArmor-1 core:shield-1 arctic:iceBlaster-1 arctic:iceBlaster-2",
+    "items": "10*rep core:mediumArmor-1 core:shield-1 arctic:fixedIceBlaster-1 arctic:fixedIceBlaster-2",
     "money": 50000
   }
 }

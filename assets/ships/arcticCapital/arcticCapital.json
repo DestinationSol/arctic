@@ -7,14 +7,14 @@
   "engine": "core:imperialBigEngine",
   "gunSlots": [
     {
-      "position": "0.664 0.372",
+      "position": "0.765 0.418",
       "isUnderneathHull": false,
-      "allowsRotation": true
+      "allowsRotation": false
     },
     {
-      "position": "0.664 0.633",
+      "position": "0.765 0.582",
       "isUnderneathHull": false,
-      "allowsRotation": true
+      "allowsRotation": false
     }
   ],
   "rigidBody": {
