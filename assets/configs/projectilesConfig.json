@@ -1,0 +1,16 @@
+{
+  "iceBlast": {
+    "dmg": 3,
+    "dmgType": "energy",
+    "speed": 5,
+    "tex": "arctic:iceBlast",
+    "texSz": 0.15,
+    "collisionEffect": {
+      "effectFile": "core:explFire",
+      "size": 0.2,
+      "tex": "core:fire",
+      "tint": "60 80 100"
+    },
+    "collisionSound": "core:blastCollision"
+  }
+}

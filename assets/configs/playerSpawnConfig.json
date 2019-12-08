@@ -3,5 +3,10 @@
     "hull": "arctic:arcticMedium",
     "items": "3*rep core:mediumArmor-1 core:shield-1 core:blaster-1",
     "money": 100
+  },
+  "Arctic Large": {
+    "hull": "arctic:arcticLarge",
+    "items": "3*rep core:mediumArmor-1 core:shield-1 arctic:iceBlaster-1 arctic:iceBlaster-2",
+    "money": 1000
   }
 }
