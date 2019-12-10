@@ -1,12 +1,17 @@
 {
+  "Arctic Small": {
+    "hull": "arctic:arcticSmall",
+    "items": "3*rep core:mediumArmor-1 core:shield-1 arctic:iceBlaster-1",
+    "money": 20
+  },
   "Arctic Medium": {
     "hull": "arctic:arcticMedium",
-    "items": "3*rep core:mediumArmor-1 core:shield-1 core:blaster-1",
+    "items": "3*rep core:mediumArmor-1 core:shield-1 arctic:iceBlaster-1",
     "money": 100
   },
   "Arctic Large": {
     "hull": "arctic:arcticLarge",
-    "items": "5*rep core:mediumArmor-1 core:shield-1 arctic:iceBlaster-1 arctic:iceBlaster-2",
+    "items": "5*rep core:mediumArmor-1 core:shield-1 arctic:fixedIceBlaster-1 arctic:fixedIceBlaster-2",
     "money": 1000
   },
   "Arctic Capital": {

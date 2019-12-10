@@ -14,12 +14,12 @@
     {
       "position": "0.65 0.61",
       "isUnderneathHull": false,
-      "allowsRotation": true
+      "allowsRotation": false
     },
     {
       "position": "0.65 0.4",
       "isUnderneathHull": false,
-      "allowsRotation": true
+      "allowsRotation": false
     }
   ],
   "rigidBody": {
